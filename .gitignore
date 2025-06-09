@@ -1,0 +1,9 @@
+# Swift Package Manager
+.build/
+Packages/
+# Xcode
+*.xcworkspace
+*.xcodeproj/project.xcworkspace
+DerivedData/
+# macOS
+.DS_Store
